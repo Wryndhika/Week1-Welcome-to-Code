@@ -114,4 +114,4 @@ switch(bulan){
         namaBulan=("desember")
         break;
 }
-    console.log(`${tanggal}  ${namaBulan} ${tahun}`);
+    console.log(`${tanggal}  ${namaBulan}  ${tahun}`);
